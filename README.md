@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! It's Luíza  :raising_hand_woman:
 
-<!--
-**Lu1zaF/Lu1zaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love learning new stuff, which is what brought me here in the first place.
 
-Here are some ideas to get you started:
+Just recently have started studying how to program, and so far I've learned a bit on HTML, CSS e JavaScript. But I won't be stopping :gear:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+:woman_technologist: To be a front-end developer is my goal 
+
+:woman_student: I have a degree on International Relations 
+
+:woman_student: I'm also a Digital Marketing postgraduate student at FGV
+
+:writing_hand: And have been currently obsessed with learning Korean, listening to K-pop and watching K-dramas, not that you asked...
+
